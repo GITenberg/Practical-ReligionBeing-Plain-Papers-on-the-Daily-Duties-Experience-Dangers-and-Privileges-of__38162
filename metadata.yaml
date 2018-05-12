@@ -1,0 +1,36 @@
+_repo: Practical-ReligionBeing-Plain-Papers-on-the-Daily-Duties-Experience-Dangers-and-Privileges-of__38162
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ryle, J. C. (John Charles)
+    alias: Ryle, John Charles
+    birthdate: 1816
+    deathdate: 1900
+    gutenberg_agent_id: '37191'
+    url: http://www.gutenberg.org/2009/agents/37191
+    wikipedia: http://en.wikipedia.org/wiki/J._C._Ryle
+description: ''
+gutenberg_issued: '2011-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian life -- Anglican authors'
+tableOfContents: Preface -- Self-inquiry -- Self-exertion -- Reality -- Prayer --
+  Bible-reading -- Going to the table -- Charity -- Zeal -- Freedom -- Happiness --
+  Formality -- The world -- Riches and poverty -- The best friend -- Sickness -- The
+  family of God -- Our home -- Heirs of God -- The great gathering -- The great separation
+  -- Eternity.
+title: 'Practical Religion
+
+  Being Plain Papers on the Daily Duties, Experience, Dangers, and Privileges of Professing
+  Christians'
+url: http://www.gutenberg.org/ebooks/38162
